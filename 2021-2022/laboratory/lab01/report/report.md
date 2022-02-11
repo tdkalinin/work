@@ -9,7 +9,6 @@ lang: ru-RU
 toc-title: "Содержание"
 
 # Bibliography
-csl: pandoc/csl/gost-r-7-0-5-2008-numeric.csl
 
 # References settings
 linkReferences: true
