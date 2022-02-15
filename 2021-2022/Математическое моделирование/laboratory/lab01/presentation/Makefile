@@ -8,7 +8,7 @@ PDF_FORMAT_OPTIONS = -t beamer --slide-level=2
 
 # FILTERS += -F pandoc-citeproc
 FILTERS += -F pandoc-crossref
-PDF_ENGINE += --pdf-engine=lualatex
+PDF_ENGINE += --pdf-engine=xelatex
 PDF_OPTIONS += --number-sections
 
 %.docx: %.md
