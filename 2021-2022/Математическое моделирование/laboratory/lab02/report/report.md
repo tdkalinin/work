@@ -129,7 +129,8 @@ $$
 $$
 r_{0}=x_{2}
 $$
-Решив это уравнение, вы получите траекторию движения катера в полярных координатах.
+Решив это уравнение, вы получите траекторию движения катера в полярных координатах
+.
 
 
 # Выполнение лабораторной работы
@@ -165,3 +166,8 @@ $$
 # Выводы
 
 В результате выполнения лабораторной работы мы смоделировали задачу о погоне в OpenModelica.
+
+# Библиография
+
+1. OpenModelica User's Guide. URL: [https://www.openmodelica.org/doc/OpenModelicaUsersGuide/latest/](https://www.openmodelica.org/doc/OpenModelicaUsersGuide/latest/)
+2. Лабораторная работа №2. - 4 с. URL: [https://esystem.rudn.ru/mod/resource/view.php?id=831107](https://esystem.rudn.ru/mod/resource/view.php?id=831107)
