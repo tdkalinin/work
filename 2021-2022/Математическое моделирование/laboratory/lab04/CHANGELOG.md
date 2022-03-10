@@ -1,0 +1,28 @@
+- Minor changes
+- Merge branch 'master' of https://github.com/tdkalinin/work
+- Added lab4
+- Added lab 5
+- Added 3 laboratory
+- Minor changes
+- Added lab2
+- Minor changes
+- Modified structure
+- Minor changes
+- Modified the structure
+- Deleted bibliography folder
+- Deleted unnecessary bibliography from report.md
+- Added report and presentation
+- Created repo structure and moved files
+- Added shared comment to readme
+- Changed README inn original repo
+- Updated index.html
+- Hello uses style.css
+- Added css stylesheet
+- Added README
+- Added index.html
+- Moved hello.html to lib
+- Add an author/email comment
+- Added HTML header
+- Added standard HTML page tags
+- Added h1 tag
+- Initial commit
