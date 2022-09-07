@@ -135,9 +135,4 @@ $$
 
 # Выводы
 
-В результате выполнения лабораторной работы мы познакомились с моделью Лотки-Вольтерра и написали ее реализацию в OpenModelica.
-
-# Библиография
-
-1. OpenModelica User's Guide. URL: [https://www.openmodelica.org/doc/OpenModelicaUsersGuide/latest/](https://www.openmodelica.org/doc/OpenModelicaUsersGuide/latest/)
-2. Лабораторная работа №5. - 4 с. URL: [https://esystem.rudn.ru/mod/resource/view.php?id=831123](https://esystem.rudn.ru/mod/resource/view.php?id=831123)
+В результате лабораторной работы мы успешно установили операционную систему Rocky Linux на виртуальную машину.
