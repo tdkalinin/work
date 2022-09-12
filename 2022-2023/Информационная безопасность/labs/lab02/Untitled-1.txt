@@ -1,0 +1,11 @@
+chmod 300 /home/guest/dir1
+chmod 200 /home/guest/dir1/file
+
+touch /home/guest/dir1/new_file.txt
+rm /home/guest/dir1/new_file.txt
+echo "test" > /home/guest/dir1/file
+cat /home/guest/dir1/file
+cd /home/guest/dir1
+ls /home/guest/dir1
+mv /home/guest/dir1/file /home/guest/dir1/file1
+mv /home/guest/dir1/file1 /home/guest/dir1/file
