@@ -1,0 +1,8 @@
+echo "test1" >> /home/guest/dir1/file
+cat /home/guest/dir1/file
+echo "rewrite" > /home/guest/dir1/file
+cat /home/guest/dir1/file
+mv /home/guest/dir1/file /home/guest/dir1/file_lab4
+ls /home/guest/dir1
+mv /home/guest/dir1/file_lab4 /home/guest/dir1/file
+chmod 000 /home/guest/dir1/file
